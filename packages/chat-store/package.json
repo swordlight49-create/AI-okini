@@ -1,0 +1,6 @@
+{
+  "name": "@okinifood/chat-store",
+  "version": "1.0.0",
+  "main": "src/store.js",
+  "description": "Lưu trữ phiên hội thoại và xác thực Admin OkiniFood"
+}
