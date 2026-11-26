@@ -1,0 +1,14 @@
+{
+  "name": "okinifood-support-hub",
+  "version": "1.0.0",
+  "private": true,
+  "description": "OkiniFood Customer Support Hub - Japan, since 2017 (Hải Đăng Tomi)",
+  "workspaces": [
+    "packages/*",
+    "server"
+  ],
+  "scripts": {
+    "start": "npm --workspace=server start",
+    "dev": "npm --workspace=server run dev"
+  }
+}
